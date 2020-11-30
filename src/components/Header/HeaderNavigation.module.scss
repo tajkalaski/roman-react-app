@@ -1,0 +1,20 @@
+.wrapper {
+  padding-left: 60px;
+}
+
+.navItem {
+  display: inline-block;
+  margin-right: 50px;
+  list-style: none;
+  
+  &Link {
+    text-decoration: none;
+    text-transform: lowercase;
+    color: #818181;
+    font-size: .8em;
+    
+    &Active {
+      font-weight: 700;
+    }
+  }
+}
