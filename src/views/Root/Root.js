@@ -63,6 +63,8 @@ class Root extends React.Component {
 
 export default Root;
 
-// 3. Dopasować Form.js do nowych potrzeb
-// 4. Przystosować widoki podstron do nowych itemów
-// 5. Wyświetlać odpowiednie notatki na podstronach 
+// 1. Add Login
+// 2. Add database and API
+// 3. Delete an article/note/twitter
+// 4. Implement Redux Store
+// 5. Add Validation to form with Formik/React Final Form
